@@ -14,6 +14,7 @@ title: Beatdata
 * web scraping
 * social media analysis
 * survival analysis
+* survey research
 
 Como dice la canción, andar nuevos caminos te hace olvidar el anterior, y la idea de construir estas páginas tienen como destinatario un futuro yo, que podrá volver sobre estás páginas como un viajero vuelve a sus notas de viajes, facilitanto el recuerdo cuando sea necesario. Claro, quién sabe, no puede descartarse la posibilidad de que algun ciber-viajero errante se detenga en estas perplejas páginas. Todo es posible en este vasto universo, hasta la Santísima Trinidad.
 
