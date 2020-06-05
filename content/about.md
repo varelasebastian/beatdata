@@ -16,7 +16,7 @@ title: Beatdata
 * survival analysis
 * survey research
 
-Como dice la canción, andar nuevos caminos te hace olvidar el anterior, y la idea de construir estas páginas tiene como destinatario un futuro yo, que podrá volver sobre estás páginas como un viajero vuelve a sus notas de viajes, facilitanto el recuerdo cuando sea necesario. Claro, quién sabe, no puede descartarse la posibilidad de que algun ciber-viajero errante se detenga en estas perplejas páginas. Todo es posible en este vasto universo, hasta la Santísima Trinidad.
+Como dice la canción, el andar nuevos caminos te hace olvidar el anterior, y la idea de construir estas páginas tiene como destinatario un futuro yo, que podrá volver a ellas como un viajero vuelve a sus notas de viajes, facilitanto el regreso cuando sea requerido. Sin embargo, quién sabe, no puede descartarse la posibilidad de que algun ciber-viajero errante se detenga en estas perplejas notas. Todo es posible en este vasto universo, incluyendo la Santísima Trinidad.
 
-Mayor información sobre el autor de este blog pueden encontrarse en mi sitio de [**linkedin**](https://www.linkedin.com/in/sebastian-varela-7026139/) 
+Puede encontrarse en [**linkedin**](https://www.linkedin.com/in/sebastian-varela-7026139) información adicional sobre el autor de este blog
 
