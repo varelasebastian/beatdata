@@ -8,5 +8,5 @@ title: Home
 
 ## ciencia de datos - data visualization - estadística - machine learning - big data
 
-Tópicos en torno a ciencia de datos papa
+Tópicos en torno a ciencia de datos 
 
