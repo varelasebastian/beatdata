@@ -1,0 +1,73 @@
+---
+title: "Evaluación de escolares"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(readr)
+library(lubridate)
+library(ggplot2)
+library(tidyverse)
+library(plotly)
+library(DT)
+library(leaflet)
+
+datosadrian1 <- read_rds("C:/Users/Microsoft Windows 10.DESKTOP-8RBDR0M/Desktop/Seba/Datasets2019/casas19/dataset_dash")
+
+
+```
+
+Introducción
+=====================================
+
+
+Column {data-width=550}
+-----------------------------------------------------------------------
+
+
+### Dataset interactivo
+
+```{r}
+datatable(datosadrian1)
+```
+
+Column {data-width=450}
+-----------------------------------------------------------------------
+
+### Gráfico interactivo 1: relación entre la edad y el salto
+
+```{r}
+
+grafico1 <- datosadrian1 %>%
+ ggplot(aes(edad, SALTO_L)) + geom_boxplot()
+
+ggplotly(grafico1)
+
+```
+
+
+
+### Localidad del colegio: Mar del Plata
+
+```{r}
+m <- leaflet() %>%
+  addTiles() %>%  # Añade por defecto los Tiles de  OpenStreetMap
+  addMarkers(lng=-57.5575409, lat=-38.0022812, popup="Mar del PLata")
+m  # Imprime el mapa
+```
+
+-----------------------------------------------------------------------
+
+Otra
+=====================================
+
+### En construcción
+
+```{r}
+
+```
+
